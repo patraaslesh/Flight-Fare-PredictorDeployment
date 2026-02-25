@@ -11,8 +11,6 @@ st.markdown("""
 
 st.divider()
 
-# Page settings
-st.set_page_config(page_title="Flight Fare Predictor", page_icon="✈")
 
 # Title
 st.title("✈ Flight Fare Prediction")
